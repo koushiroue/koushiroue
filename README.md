@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 ### What I'm Working on rn.  
 
 - [Lolipatter](github.com/koushiroue/lolpatter) - Loli-Headpatting Program
-- [Note (will be merged with[Note Pastel](github.com/koushiroue/project-note-pastel)](github.com/koushiroue/note) - Note Project
+- [Note \(will be merged with[Note Pastel](github.com/koushiroue/project-note-pastel)\)](github.com/koushiroue/note) - Note Project
