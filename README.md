@@ -1,4 +1,4 @@
-### Hi there 👋
+### Henlo. 👋
 
 
 **koushiroue/koushiroue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,3 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: none
 - 😄 Pronouns: none
 - ⚡ Fun fact: nothing
+
+### What I'm Working on rn.  
+
+- [Lolipatter](github.com/koushiroue/lolpatter) - Loli-Headpatting Program
+- [Note (will be merged with[Note Pastel](github.com/koushiroue/project-note-pastel)](github.com/koushiroue/note) - Note Project
