@@ -2,14 +2,14 @@
 
 **koushiroue/koushiroue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-- 🔭 I’m currently working on nothing
+- 🔭 I’m currently [working rn](#what-im-working-on-rn)
 - 🌱 I’m currently learning nothing
 - 👯 I’m looking to collaborate on nothing
 - 🤔 I’m looking for help with nothing
-- 💬 Ask me about nothing
-- 📫 How to reach me: none
-- 😄 Pronouns: none
-- ⚡ Fun fact: nothing
+- 💬 Ask me about waifus oc
+- 📫 How to reach me: by hand
+- 😄 Pronouns: human
+- ⚡ Fun fact: try blink and breath manually.
 
 ### What I'm Working on rn.  
 
@@ -18,7 +18,7 @@
 
 ### Preferences
 
-- Terminals					- 	`pwsh`, `bash` 
-- Text / Code Editor 		- 	`micro`, [`vscode`](https://github.com/microsoft/vscode)  
-- Package Manager 			- 	`scoop`, `pip`, `go` 
+- Terminals					- 	[`pwsh + terminal`](https://github.com/microsoft/terminal), `bash` 
+- Text / Code Editor 		- 	[`micro`](https://github.com/zyedidia/micro), [`vscode`](https://github.com/microsoft/vscode)  
+- Package Manager 			- 	[`scoop`](https://github.com/lukesampson/scoop), `pip`, `go` 
 - Security 					- 	[`aegis`](https://github.com/beemdevelopment/Aegis)
