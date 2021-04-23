@@ -15,6 +15,7 @@
 
 - [Lolipatter](github.com/koushiroue/lolpatter) - Loli-Headpatting Program
 - [Note](github.com/koushiroue/note) - Note Project
+- [Celschrome](github.com/koushiroue/celschrome) - Firefox Custom Userchrome
 
 ### Preferences
 
