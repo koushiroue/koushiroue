@@ -17,4 +17,4 @@
 - [Note](github.com/koushiroue/note) - Note Project
 - [Celschrome](github.com/koushiroue/celschrome) - Firefox Custom Userchrome
 
-![chinese man with gun](https://tenor.com/view/scawy-man-talking-old-man-gun-gif-16761585)
+![chinese man with gun](https://discord.com/channels/369507262886051850/830081673462808619/836713243002535938)
