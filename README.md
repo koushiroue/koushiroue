@@ -13,8 +13,8 @@
 
 ### What I'm Working on rn.  
 
-- [Lolipatter](github.com/koushiroue/lolpatter) - Loli-Headpatting Program
-- [Note](github.com/koushiroue/note) - Note Project
-- [Celschrome](github.com/koushiroue/celschrome) - Firefox Custom Userchrome
+- [Lolipatter](koushiroue/lolpatter) - Loli-Headpatting Program
+- [Note](koushiroue/note) - Note Project
+- [Celschrome](koushiroue/celschrome) - Firefox Custom Userchrome
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y41JJTJ)
