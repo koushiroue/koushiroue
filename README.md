@@ -17,12 +17,4 @@
 - [Note](github.com/koushiroue/note) - Note Project
 - [Celschrome](github.com/koushiroue/celschrome) - Firefox Custom Userchrome
 
-<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
-<script>
-  kofiWidgetOverlay.draw('celkou', {
-    'type': 'floating-chat',
-    'floating-chat.donateButton.text': 'Support me',
-    'floating-chat.donateButton.background-color': '#00b9fe',
-    'floating-chat.donateButton.text-color': '#fff'
-  });
-</script>
+<iframe src='https://ko-fi.com/celkou/?hidefeed=true&widget=true&embed=true&preview=true' style='border:none;width:100%;padding:4px;background:#f9f9f9;' height='712' title='celkou'></iframe>
