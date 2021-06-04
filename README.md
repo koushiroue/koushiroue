@@ -17,4 +17,4 @@
 - [Note](github.com/koushiroue/note) - Note Project
 - [Celschrome](github.com/koushiroue/celschrome) - Firefox Custom Userchrome
 
-<iframe src='https://ko-fi.com/celkou/?hidefeed=true&widget=true&embed=true&preview=true' style='border:none;width:100%;padding:4px;background:#f9f9f9;' height='712' title='celkou'></iframe>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y41JJTJ)
