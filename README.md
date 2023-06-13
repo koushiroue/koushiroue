@@ -14,7 +14,7 @@
 ### What I'm Working on rn.  
 
 - [Lolipatter](https://github.com/koushiroue/lolpatter) - Loli-Headpatting Program
-- [Note](https://github.com/koushiroue/note) - Note Project
+- [Atheros](https://github.com/koushiroue/atheros) - Foobar2000 Homemade Skin
 - [Celschrome](https://github.com/koushiroue/celschrome) - Firefox Custom Userchrome
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y41JJTJ)
